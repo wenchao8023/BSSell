@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BSSell_Example' do
+  pod 'BSSell', :path => '../'
+
+  target 'BSSell_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
