@@ -1,0 +1,6 @@
+framework module Pods_BSSell_Example {
+  umbrella header "Pods-BSSell_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

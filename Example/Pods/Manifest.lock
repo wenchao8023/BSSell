@@ -1,0 +1,16 @@
+PODS:
+  - BSSell (0.1.0)
+
+DEPENDENCIES:
+  - BSSell (from `../`)
+
+EXTERNAL SOURCES:
+  BSSell:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BSSell: 7aac86c0b63dd1fa835d65fc468e6365f2734778
+
+PODFILE CHECKSUM: edbc065ec6a1ff8827474d9f242b8647e0a3220a
+
+COCOAPODS: 1.10.1

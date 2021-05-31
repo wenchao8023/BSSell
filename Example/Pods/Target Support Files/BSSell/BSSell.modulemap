@@ -1,0 +1,6 @@
+framework module BSSell {
+  umbrella header "BSSell-umbrella.h"
+
+  export *
+  module * { export * }
+}
